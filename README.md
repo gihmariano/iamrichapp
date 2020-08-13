@@ -1,16 +1,20 @@
 # i_am_rich
 
-A new Flutter application.
+Aplicativo criado durante Bootcamp Flutter.
+Em colaboração com Google Team.
 
-## Getting Started
+Welcome to the Complete Flutter App Development Bootcamp with Dart - created in collaboration with the Google Flutter team.
 
-This project is a starting point for a Flutter application.
+Now includes a brand new module on Flutter State Management!
 
-A few resources to get you started if this is your first Flutter project:
+Covering all the fundamental concepts for Flutter development, this is the most comprehensive Flutter course available online.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+We built this course over months, perfecting the curriculum together with the Flutter team to teach you Flutter from scratch and make you into  a skilled Flutter developer with a strong portfolio of beautiful Flutter apps.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our complete Flutter development bootcamp teaches you how to code using Dart and build beautiful, fast, native-quality iOS and Android apps. Even if you have ZERO programming experience.
+
+I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as a Flutter developer.
+
+The course includes 28+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Whatsapp, QuizUp and Yahoo Weather.
+
+By the end of this course, you will be fluently programming in Dart and be ready to build your own Flutter apps and become a fully fledged Flutter developer.
